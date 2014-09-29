@@ -1,0 +1,8 @@
+E:\13-June-14\day-2\CalculationApp\CalculationApp\bin\Debug\CalculationApp.exe
+E:\13-June-14\day-2\CalculationApp\CalculationApp\bin\Debug\CalculationApp.pdb
+E:\13-June-14\day-2\CalculationApp\CalculationApp\obj\Debug\CalculationApp.csprojResolveAssemblyReference.cache
+E:\13-June-14\day-2\CalculationApp\CalculationApp\obj\Debug\CalculationApp.CollectionUI.resources
+E:\13-June-14\day-2\CalculationApp\CalculationApp\obj\Debug\CalculationApp.Properties.Resources.resources
+E:\13-June-14\day-2\CalculationApp\CalculationApp\obj\Debug\CalculationApp.csproj.GenerateResource.Cache
+E:\13-June-14\day-2\CalculationApp\CalculationApp\obj\Debug\CalculationApp.exe
+E:\13-June-14\day-2\CalculationApp\CalculationApp\obj\Debug\CalculationApp.pdb

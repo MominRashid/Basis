@@ -1,0 +1,16 @@
+E:\13-June-14\day-2\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe
+E:\13-June-14\day-2\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.pdb
+E:\13-June-14\day-2\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csprojResolveAssemblyReference.cache
+E:\13-June-14\day-2\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.EmployeeInformationUI.resources
+E:\13-June-14\day-2\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.Properties.Resources.resources
+E:\13-June-14\day-2\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csproj.GenerateResource.Cache
+E:\13-June-14\day-2\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.exe
+E:\13-June-14\day-2\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.pdb
+K:\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.exe
+K:\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.pdb
+K:\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe
+K:\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.pdb
+K:\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csprojResolveAssemblyReference.cache
+K:\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.EmployeeInformationUI.resources
+K:\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.Properties.Resources.resources
+K:\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csproj.GenerateResource.Cache

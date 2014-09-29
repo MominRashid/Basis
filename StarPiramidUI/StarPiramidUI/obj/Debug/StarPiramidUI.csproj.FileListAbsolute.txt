@@ -1,0 +1,18 @@
+F:\C#\Projects\StarPiramidUI\StarPiramidUI\bin\Debug\StarPiramidUI.exe.config
+F:\C#\Projects\StarPiramidUI\StarPiramidUI\bin\Debug\StarPiramidUI.exe
+F:\C#\Projects\StarPiramidUI\StarPiramidUI\bin\Debug\StarPiramidUI.pdb
+F:\C#\Projects\StarPiramidUI\StarPiramidUI\obj\Debug\StarPiramidUI.csprojResolveAssemblyReference.cache
+F:\C#\Projects\StarPiramidUI\StarPiramidUI\obj\Debug\StarPiramidUI.Form1.resources
+F:\C#\Projects\StarPiramidUI\StarPiramidUI\obj\Debug\StarPiramidUI.Properties.Resources.resources
+F:\C#\Projects\StarPiramidUI\StarPiramidUI\obj\Debug\StarPiramidUI.csproj.GenerateResource.Cache
+F:\C#\Projects\StarPiramidUI\StarPiramidUI\obj\Debug\StarPiramidUI.exe
+F:\C#\Projects\StarPiramidUI\StarPiramidUI\obj\Debug\StarPiramidUI.pdb
+H:\OOP C# ASP.Net batch 47\Projects\StarPiramidUI\StarPiramidUI\bin\Debug\StarPiramidUI.exe.config
+H:\OOP C# ASP.Net batch 47\Projects\StarPiramidUI\StarPiramidUI\obj\Debug\StarPiramidUI.exe
+H:\OOP C# ASP.Net batch 47\Projects\StarPiramidUI\StarPiramidUI\obj\Debug\StarPiramidUI.pdb
+H:\OOP C# ASP.Net batch 47\Projects\StarPiramidUI\StarPiramidUI\bin\Debug\StarPiramidUI.exe
+H:\OOP C# ASP.Net batch 47\Projects\StarPiramidUI\StarPiramidUI\bin\Debug\StarPiramidUI.pdb
+H:\OOP C# ASP.Net batch 47\Projects\StarPiramidUI\StarPiramidUI\obj\Debug\StarPiramidUI.csprojResolveAssemblyReference.cache
+H:\OOP C# ASP.Net batch 47\Projects\StarPiramidUI\StarPiramidUI\obj\Debug\StarPiramidUI.Form1.resources
+H:\OOP C# ASP.Net batch 47\Projects\StarPiramidUI\StarPiramidUI\obj\Debug\StarPiramidUI.Properties.Resources.resources
+H:\OOP C# ASP.Net batch 47\Projects\StarPiramidUI\StarPiramidUI\obj\Debug\StarPiramidUI.csproj.GenerateResource.Cache

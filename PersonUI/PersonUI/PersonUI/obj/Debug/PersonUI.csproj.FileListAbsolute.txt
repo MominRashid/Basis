@@ -1,0 +1,9 @@
+H:\Momin Ur Rashid\PersonUI\PersonUI\bin\Debug\PersonUI.exe.config
+H:\Momin Ur Rashid\PersonUI\PersonUI\obj\Debug\PersonUI.csprojResolveAssemblyReference.cache
+H:\Momin Ur Rashid\PersonUI\PersonUI\obj\Debug\PersonUI.Form1.resources
+H:\Momin Ur Rashid\PersonUI\PersonUI\obj\Debug\PersonUI.Properties.Resources.resources
+H:\Momin Ur Rashid\PersonUI\PersonUI\obj\Debug\PersonUI.csproj.GenerateResource.Cache
+H:\Momin Ur Rashid\PersonUI\PersonUI\bin\Debug\PersonUI.exe
+H:\Momin Ur Rashid\PersonUI\PersonUI\bin\Debug\PersonUI.pdb
+H:\Momin Ur Rashid\PersonUI\PersonUI\obj\Debug\PersonUI.exe
+H:\Momin Ur Rashid\PersonUI\PersonUI\obj\Debug\PersonUI.pdb

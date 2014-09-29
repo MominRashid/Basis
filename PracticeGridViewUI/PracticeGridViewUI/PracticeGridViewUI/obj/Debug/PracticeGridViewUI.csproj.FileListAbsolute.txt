@@ -1,0 +1,18 @@
+G:\My Project\PracticeGridViewUI\PracticeGridViewUI\bin\Debug\PracticeGridViewUI.exe.config
+G:\My Project\PracticeGridViewUI\PracticeGridViewUI\bin\Debug\PracticeGridViewUI.exe
+G:\My Project\PracticeGridViewUI\PracticeGridViewUI\bin\Debug\PracticeGridViewUI.pdb
+G:\My Project\PracticeGridViewUI\PracticeGridViewUI\obj\Debug\PracticeGridViewUI.csprojResolveAssemblyReference.cache
+G:\My Project\PracticeGridViewUI\PracticeGridViewUI\obj\Debug\PracticeGridViewUI.Form1.resources
+G:\My Project\PracticeGridViewUI\PracticeGridViewUI\obj\Debug\PracticeGridViewUI.Properties.Resources.resources
+G:\My Project\PracticeGridViewUI\PracticeGridViewUI\obj\Debug\PracticeGridViewUI.csproj.GenerateResource.Cache
+G:\My Project\PracticeGridViewUI\PracticeGridViewUI\obj\Debug\PracticeGridViewUI.exe
+G:\My Project\PracticeGridViewUI\PracticeGridViewUI\obj\Debug\PracticeGridViewUI.pdb
+H:\OOP C# ASP.Net batch 47\PracticeGridViewUI\PracticeGridViewUI\PracticeGridViewUI\bin\Debug\PracticeGridViewUI.exe.config
+H:\OOP C# ASP.Net batch 47\PracticeGridViewUI\PracticeGridViewUI\PracticeGridViewUI\obj\Debug\PracticeGridViewUI.exe
+H:\OOP C# ASP.Net batch 47\PracticeGridViewUI\PracticeGridViewUI\PracticeGridViewUI\obj\Debug\PracticeGridViewUI.pdb
+H:\OOP C# ASP.Net batch 47\PracticeGridViewUI\PracticeGridViewUI\PracticeGridViewUI\bin\Debug\PracticeGridViewUI.exe
+H:\OOP C# ASP.Net batch 47\PracticeGridViewUI\PracticeGridViewUI\PracticeGridViewUI\bin\Debug\PracticeGridViewUI.pdb
+H:\OOP C# ASP.Net batch 47\PracticeGridViewUI\PracticeGridViewUI\PracticeGridViewUI\obj\Debug\PracticeGridViewUI.csprojResolveAssemblyReference.cache
+H:\OOP C# ASP.Net batch 47\PracticeGridViewUI\PracticeGridViewUI\PracticeGridViewUI\obj\Debug\PracticeGridViewUI.Form1.resources
+H:\OOP C# ASP.Net batch 47\PracticeGridViewUI\PracticeGridViewUI\PracticeGridViewUI\obj\Debug\PracticeGridViewUI.Properties.Resources.resources
+H:\OOP C# ASP.Net batch 47\PracticeGridViewUI\PracticeGridViewUI\PracticeGridViewUI\obj\Debug\PracticeGridViewUI.csproj.GenerateResource.Cache

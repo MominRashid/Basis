@@ -1,0 +1,18 @@
+F:\C#\Projects\TalkTImeUI\TalkTImeUI\bin\Debug\TalkTImeUI.exe.config
+F:\C#\Projects\TalkTImeUI\TalkTImeUI\bin\Debug\TalkTImeUI.exe
+F:\C#\Projects\TalkTImeUI\TalkTImeUI\bin\Debug\TalkTImeUI.pdb
+F:\C#\Projects\TalkTImeUI\TalkTImeUI\obj\Debug\TalkTImeUI.Form1.resources
+F:\C#\Projects\TalkTImeUI\TalkTImeUI\obj\Debug\TalkTImeUI.Properties.Resources.resources
+F:\C#\Projects\TalkTImeUI\TalkTImeUI\obj\Debug\TalkTImeUI.csproj.GenerateResource.Cache
+F:\C#\Projects\TalkTImeUI\TalkTImeUI\obj\Debug\TalkTImeUI.exe
+F:\C#\Projects\TalkTImeUI\TalkTImeUI\obj\Debug\TalkTImeUI.pdb
+F:\C#\Projects\TalkTImeUI\TalkTImeUI\obj\Debug\TalkTImeUI.csprojResolveAssemblyReference.cache
+H:\OOP C# ASP.Net batch 47\Projects\TalkTImeUI\TalkTImeUI\bin\Debug\TalkTImeUI.exe.config
+H:\OOP C# ASP.Net batch 47\Projects\TalkTImeUI\TalkTImeUI\obj\Debug\TalkTImeUI.exe
+H:\OOP C# ASP.Net batch 47\Projects\TalkTImeUI\TalkTImeUI\obj\Debug\TalkTImeUI.pdb
+H:\OOP C# ASP.Net batch 47\Projects\TalkTImeUI\TalkTImeUI\bin\Debug\TalkTImeUI.exe
+H:\OOP C# ASP.Net batch 47\Projects\TalkTImeUI\TalkTImeUI\bin\Debug\TalkTImeUI.pdb
+H:\OOP C# ASP.Net batch 47\Projects\TalkTImeUI\TalkTImeUI\obj\Debug\TalkTImeUI.csprojResolveAssemblyReference.cache
+H:\OOP C# ASP.Net batch 47\Projects\TalkTImeUI\TalkTImeUI\obj\Debug\TalkTImeUI.Form1.resources
+H:\OOP C# ASP.Net batch 47\Projects\TalkTImeUI\TalkTImeUI\obj\Debug\TalkTImeUI.Properties.Resources.resources
+H:\OOP C# ASP.Net batch 47\Projects\TalkTImeUI\TalkTImeUI\obj\Debug\TalkTImeUI.csproj.GenerateResource.Cache

@@ -1,0 +1,64 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace CustomarQueueManagmentApp
+{
+    public partial class CustomarUI : Form
+    {
+        public CustomarUI()
+        {
+            InitializeComponent();
+        }
+        Queue<CustomarClass> aQueue = new Queue<CustomarClass>();
+
+        CustomarClass customarClass = new CustomarClass();
+
+        private int serial = 1;
+        private void Enqueuebutton_Click(object sender, EventArgs e)
+        {
+          
+
+            customarClass.name = NametextBox.Text;
+            customarClass.complain = ComplaintextBox.Text;
+            customarClass.serial = serial.ToString();
+            aQueue.Enqueue(customarClass);
+            insertintolistview(customarClass.name, customarClass.complain);
+        }
+
+        private void insertintolistview(string name, string complain)
+        {
+            ListViewItem item = new ListViewItem();
+            item.SubItems.Add(name);
+            item.SubItems.Add(complain);
+            item.SubItems.Add(serial);
+
+            listView1.Items.Add(item);
+
+        }
+
+        private void Dequeuebutton_Click(object sender, EventArgs e)
+        {
+            //Queue<CustomarClass> aQueue = new Queue<CustomarClass>();
+
+            //CustomarClass customarClass = new CustomarClass();
+
+            customarClass = aQueue.Dequeue();
+            NametextBox.Text = customarClass.name;
+            ComplainDequeuetextBox.Text = customarClass.complain;
+            //aQueue.Dequeue();
+            listView1.Items[0].Remove();
+        }
+
+       
+       
+        
+    }
+}

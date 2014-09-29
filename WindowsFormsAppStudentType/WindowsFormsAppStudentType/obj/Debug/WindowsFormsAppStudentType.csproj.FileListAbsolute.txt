@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\WindowsFormsAppStudentType\WindowsFormsAppStudentType\bin\Debug\WindowsFormsAppStudentType.exe.config
+C:\Users\PC21\Desktop\WindowsFormsAppStudentType\WindowsFormsAppStudentType\bin\Debug\WindowsFormsAppStudentType.exe
+C:\Users\PC21\Desktop\WindowsFormsAppStudentType\WindowsFormsAppStudentType\bin\Debug\WindowsFormsAppStudentType.pdb
+C:\Users\PC21\Desktop\WindowsFormsAppStudentType\WindowsFormsAppStudentType\obj\Debug\WindowsFormsAppStudentType.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\WindowsFormsAppStudentType\WindowsFormsAppStudentType\obj\Debug\WindowsFormsAppStudentType.StudentInfoUI.resources
+C:\Users\PC21\Desktop\WindowsFormsAppStudentType\WindowsFormsAppStudentType\obj\Debug\WindowsFormsAppStudentType.Properties.Resources.resources
+C:\Users\PC21\Desktop\WindowsFormsAppStudentType\WindowsFormsAppStudentType\obj\Debug\WindowsFormsAppStudentType.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\WindowsFormsAppStudentType\WindowsFormsAppStudentType\obj\Debug\WindowsFormsAppStudentType.exe
+C:\Users\PC21\Desktop\WindowsFormsAppStudentType\WindowsFormsAppStudentType\obj\Debug\WindowsFormsAppStudentType.pdb

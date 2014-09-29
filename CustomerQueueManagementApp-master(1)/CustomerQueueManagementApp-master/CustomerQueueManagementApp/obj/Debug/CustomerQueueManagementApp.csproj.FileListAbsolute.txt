@@ -1,0 +1,17 @@
+E:\BASIS OOP Asp.Net 49 Batch\Home Works\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe.config
+E:\BASIS OOP Asp.Net 49 Batch\Home Works\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe
+E:\BASIS OOP Asp.Net 49 Batch\Home Works\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.pdb
+E:\BASIS OOP Asp.Net 49 Batch\Home Works\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.CustomerQueueManagementUI.resources
+E:\BASIS OOP Asp.Net 49 Batch\Home Works\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.Properties.Resources.resources
+E:\BASIS OOP Asp.Net 49 Batch\Home Works\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csproj.GenerateResource.Cache
+E:\BASIS OOP Asp.Net 49 Batch\Home Works\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.exe
+E:\BASIS OOP Asp.Net 49 Batch\Home Works\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.pdb
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.CustomersQueueManagementUI.resources
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.Properties.Resources.resources
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csproj.GenerateResource.Cache
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe.config
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.pdb
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.exe
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.pdb
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csprojResolveAssemblyReference.cache

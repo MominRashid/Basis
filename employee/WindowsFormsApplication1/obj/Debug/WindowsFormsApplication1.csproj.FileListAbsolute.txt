@@ -1,0 +1,9 @@
+c:\users\pc21\documents\visual studio 2013\Projects\day05\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\pc21\documents\visual studio 2013\Projects\day05\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\pc21\documents\visual studio 2013\Projects\day05\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EmployeeSalaryForm.resources
+c:\users\pc21\documents\visual studio 2013\Projects\day05\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\pc21\documents\visual studio 2013\Projects\day05\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\pc21\documents\visual studio 2013\Projects\day05\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\pc21\documents\visual studio 2013\Projects\day05\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\pc21\documents\visual studio 2013\Projects\day05\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\pc21\documents\visual studio 2013\Projects\day05\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
